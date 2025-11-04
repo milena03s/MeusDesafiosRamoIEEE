@@ -1,2 +1,2 @@
 # MeusDesafiosRamoIEEE
-Desafios de Phython que fiz no Ramo Estudantil IEEE, desde Janeiro de 2025.
+Desafios de Python que fiz no Ramo Estudantil IEEE, desde Janeiro de 2025.
